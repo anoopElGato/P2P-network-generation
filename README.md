@@ -1,4 +1,6 @@
-# Computer-Networks-assignment-1-B22CS010-B22CS011
+# Peer-to-Peer network generator
+Implemented a gossip protocol over a peer-to-peer network such that the degree distribution of the peer nodes follows power law.<br />
+<img width="1000" height="600" alt="powerLawP2P" src="https://github.com/user-attachments/assets/a9d3850e-0f16-4d2b-928b-d95657fcd651" />
 
 ## Steps to Run the Code
 
@@ -19,4 +21,5 @@
    ```
    
 **Switch the main function in seed.py and peer.py to run on seperate machines** (dont forget to update the config file):
-![image](https://github.com/user-attachments/assets/be124108-e79c-4b08-aee4-0f4f855c14f1)
+<img width="685" height="571" alt="image" src="https://github.com/user-attachments/assets/0e0846b8-9ecd-4830-849d-53593b122e9b" />
+
