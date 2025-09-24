@@ -21,5 +21,5 @@ Implemented a gossip protocol over a peer-to-peer network such that the degree d
    ```
    
 **Switch the main function in seed.py and peer.py to run on seperate machines** (dont forget to update the config file):
-<img width="343" height="286" alt="update config file" src="https://github.com/user-attachments/assets/0e0846b8-9ecd-4830-849d-53593b122e9b" />
+<img width="514" height="428" alt="update config file" src="https://github.com/user-attachments/assets/0e0846b8-9ecd-4830-849d-53593b122e9b" />
 
